@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>个人博客</title>
+    <link>https://anlieh.github.io</link>
+    <atom:link href="https://anlieh.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>努力成为想成为的人</description>
+    <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
+    <lastBuildDate>Sat, 03 Sep 2022 11:38:24 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>Python 3.9于Linux安装教程</title>
+      <link>https://anlieh.github.io/articles/2022/09/03/1662175214500.html</link>
+      <description><![CDATA[<p>在 CentOS 上安装 Python 3.9</p>]]></description>
+      <author>Anileh</author>
+      <guid>https://anlieh.github.io/articles/2022/09/03/1662175214500.html</guid>
+      <category>Python</category>
+      <pubDate>Sat, 03 Sep 2022 11:20:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>计算机组成原理-00-大纲</title>
+      <link>https://anlieh.github.io/articles/2022/09/03/1662171804192.html</link>
+      <description/>
+      <author>Anileh</author>
+      <guid>https://anlieh.github.io/articles/2022/09/03/1662171804192.html</guid>
+      <category>计组</category>
+      <pubDate>Sat, 03 Sep 2022 10:23:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>计组之01-计算机系统概述</title>
+      <link>https://anlieh.github.io/articles/2022/07/16/1657975497922.html</link>
+      <description><![CDATA[<p>计算机系统层次结构、两种计算机结构、主要硬件、性能指标</p>]]></description>
+      <author>Anileh</author>
+      <guid>https://anlieh.github.io/articles/2022/07/16/1657975497922.html</guid>
+      <category>计组</category>
+      <pubDate>Sat, 16 Jul 2022 20:44:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>Android学习之广播</title>
+      <link>https://anlieh.github.io/articles/2022/05/28/1653707374760.html</link>
+      <description><![CDATA[<p>Android中的广播，进行系统级别的消息通知，让每个应用程序注册自己的广播。</p>]]></description>
+      <author>Anileh</author>
+      <guid>https://anlieh.github.io/articles/2022/05/28/1653707374760.html</guid>
+      <category>Android</category>
+      <pubDate>Sat, 28 May 2022 11:09:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>我在 GitHub 上的开源项目</title>
+      <link>https://anlieh.github.io/my-github-repos</link>
+      <description><![CDATA[<ol>
+<li>SpringMVC JavaScript 🤩1&nbsp;&nbsp;⭐️1&nbsp;&nbsp;🖖0 SpringMVC学习记录，前端使用Thymeleaf解析，工具是IDEA  2. WeatherForecast Kotlin 🤩1&nbsp;&nbsp;⭐️0&nbsp;&nbsp;🖖0 Android学习的结课作业  3. ssm-crud Java 🤩1&nbsp;&nbsp;⭐️0&nbsp;&nbsp;🖖0 ssm整合框架的crud练手demo，有bug中</li>
+</ol>]]></description>
+      <author>Anileh</author>
+      <guid>https://anlieh.github.io/my-github-repos</guid>
+      <category>GitHub</category>
+      <category>开源</category>
+      <pubDate>Sun, 22 May 2022 11:02:16 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
